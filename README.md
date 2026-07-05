@@ -1,5 +1,5 @@
 # Data_Science_Portfolio
-# #Hi, I am John Rey Palangan
+##Hi, I am John Rey Palangan
 ### Industrial Engineer | An Aspiring Data Engineer
 
 A results-driven Industrial Engineering graduate with 1 year experience in customer service, seeking a data engineering role to transition into analytics.
